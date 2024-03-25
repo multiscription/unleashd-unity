@@ -19,7 +19,7 @@ Open **Assets** -> **External Dependency Manager** -> **Android Resolver** -> **
 Verify that **Use Jetifier** is **enabled**.
 
 ## Step 3: Install Unleashd SDK
-There are 2 methods of installing the Unleashd SDK:
+There are two methods of installing the Unleashd SDK:
 - The first method is by utilizing Unity Package Manager. Proceed to step 3a.
 - The second method is a manual installation. Proceed to step 3b.
 
@@ -48,15 +48,17 @@ If you used Unity Package Manager SDK installation, you can import samples of bo
 If you used manual SDK installation, you can find examples of both types of integration in the folder **Assets/Unleashd/Examples/** in your Unity project.
 
 ## Step 6: Finalization
-Ensure that Android dependencies are properly updated by going to **Assets** -> **External Dependency Manager** -> **Android Resolver** -> **Force Resolve** in Unity Editor.
+Ensure that Android dependencies are properly updated by going to:
+
+ **Assets** -> **External Dependency Manager** -> **Android Resolver** -> **Force Resolve** in Unity Editor.
 
 ## Import Samples
 Import by going to **Window** -> **Package Manager** -> **Unleashd** -> **Samples** -> **Import**
 
-They will appear in the folder Assets/Samples/Unleashd/SDK_Version/Samples/ in your Unity project.
+They will appear in the folder **Assets/Samples/Unleashd/SDK_Version/Samples/** in your Unity project.
 
 ## Update Unleashd SDK
-Receive new updates to Unleashd SDK by updating it in the package manager to get the latest version.
+Receive new updates for Unleashd SDK by updating it in the package manager to get the latest version.
 
 Update by going to **Window** -> **Package Manager** -> **Unleashd** -> **Update**
 
