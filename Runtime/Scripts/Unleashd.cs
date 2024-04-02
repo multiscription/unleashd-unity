@@ -8,7 +8,7 @@
 #pragma warning disable CS0162
     public class Unleashd : MonoBehaviour
     {
-        private const string VERSION_INFO_CSHARP = "2.5.3.beta4";
+        private const string VERSION_INFO_CSHARP = "2.5.3";
 
         public delegate void PluginDelegate();
         public PluginDelegate OnReady;
