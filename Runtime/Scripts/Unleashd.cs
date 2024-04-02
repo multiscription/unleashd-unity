@@ -28,7 +28,7 @@
         private Action[] mainThreadPendingArray = new Action[0];
         private DateTime trialEndDate = DateTime.Now;
         private SubscriptionState subscriptionState;
-#if UNITY_EDITOR || UNITY_ANDROID
+#if UNITY_EDITOR && UNITY_ANDROID
         private bool editorShowPurchaseDialog;
 #endif
 

@@ -1,0 +1,18 @@
+{
+    "name": "multiscription.unleashd.Editor",
+    "rootNamespace": "Multiscription.Unleashd",
+    "references": [
+        "GUID:600da1b1d72bdfb4da8173db3d41bde5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

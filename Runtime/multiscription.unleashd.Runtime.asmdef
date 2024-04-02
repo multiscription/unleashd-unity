@@ -1,0 +1,14 @@
+{
+    "name": "multiscription.unleashd.Runtime",
+    "rootNamespace": "Multiscription.Unleashd",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
