@@ -2,6 +2,13 @@
 All notable changes to the Unleashd SDK package will be documented in this file
 
 
+## [2.5.3]
+
+### Fixes
+- Fix for writeToFile and getContentProvider ANRs
+- Fix for getPreferences crash
+
+
 ## [2.5.2]
 
 ### Fixes
