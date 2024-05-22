@@ -1,6 +1,6 @@
 {
     "name": "com.multiscription.unleashd",
-    "version": "2.5.3",
+    "version": "2.5.4",
     "displayName": "Unleashd",
     "description": "Unleashd is a free-to-use subscription tool, which enables you to easily add our subscription service to your game, and will help you monetize your title. No backend development and native billing libraries needed, just add the Unleashd prefab to your UI and implement benefits for your subscribers.\n\nFor every player signing up to Unleashd through your game you'll earn $3 EVERY MONTH as long as that player remains a subscriber on the Unleashd service.\n\nSupported platforms: Android\n\nWebsite: https://developer.unleashd.com/",
     "unity": "2021.3",
