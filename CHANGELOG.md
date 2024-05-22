@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the Unleashd SDK package will be documented in this file
 
+## [2.5.4]
+
+### Fixes
+- Fix for in-game trial timer appearing on top of header
+- Fix for buttons in in-game trial not showing in landscape mode
+
 
 ## [2.5.3]
 
