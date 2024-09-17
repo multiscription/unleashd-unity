@@ -43,13 +43,13 @@ namespace Multiscription.Unleashd
                 {
                     Unleashd.Instance.Init();
                 }
+
+             UpdateUI();
             }
             else
             {
-                unleashdButton.gameObject.SetActive(false);
+                gameObject.SetActive(false);
             }
-
-            UpdateUI();
         }
 
         void OnDestroy()

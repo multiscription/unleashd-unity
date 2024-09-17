@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to the Unleashd SDK package will be documented in this file
 
+## [2.5.5]
+
+### Fixes
+- Fix for error when switching to IOS platform
+- Fix for plugin not initialized console spam on IOS platform
+
 ## [2.5.4]
 
 ### Fixes

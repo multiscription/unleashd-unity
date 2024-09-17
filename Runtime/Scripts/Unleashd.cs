@@ -245,7 +245,7 @@
                 return;
             }
 
-#if UNITY_EDITOR
+#if UNITY_EDITOR && UNITY_ANDROID
             editorShowPurchaseDialog = true;
             return;
 #endif
